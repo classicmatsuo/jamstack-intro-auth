@@ -1,0 +1,16 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@reach/dialog": "^0.10.2",
+    "@reach/tabs": "^0.10.2",
+    "@reach/visually-hidden": "^0.10.2",
+    "gatsby": "^2.21.31",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-netlify-identity": "^0.2.5",
+    "react-netlify-identity-widget": "^0.2.7"
+  }
+}
